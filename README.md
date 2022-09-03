@@ -1,4 +1,4 @@
-BrowsetStack integration with Cypress on JavaScript
+#BrowsetStack integration with Cypress on JavaScript
 
 This is a NodeJS project with the dependencies:
 
