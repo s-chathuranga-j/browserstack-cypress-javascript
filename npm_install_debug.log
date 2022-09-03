@@ -1,0 +1,64 @@
+npm verb cli /opt/homebrew/Cellar/node/16.5.0/bin/node /opt/homebrew/bin/npm
+npm info using npm@8.18.0
+npm info using node@v16.5.0
+npm timing npm:load:whichnode Completed in 0ms
+npm timing config:load:defaults Completed in 1ms
+npm timing config:load:file:/opt/homebrew/lib/node_modules/npm/npmrc Completed in 1ms
+npm timing config:load:builtin Completed in 1ms
+npm timing config:load:cli Completed in 1ms
+npm timing config:load:env Completed in 0ms
+npm timing config:load:file:/Users/chathurangajayasinghe/Project Workspace/GitRepos/browserstack-cypress-javascript/tmpBstackPackages/.npmrc Completed in 0ms
+npm timing config:load:project Completed in 2ms
+npm timing config:load:file:/Users/chathurangajayasinghe/.npmrc Completed in 0ms
+npm timing config:load:user Completed in 0ms
+npm timing config:load:file:/opt/homebrew/etc/npmrc Completed in 0ms
+npm timing config:load:global Completed in 0ms
+npm timing config:load:validate Completed in 0ms
+npm timing config:load:credentials Completed in 0ms
+npm timing config:load:setEnvs Completed in 1ms
+npm timing config:load Completed in 6ms
+npm timing npm:load:configload Completed in 6ms
+npm timing npm:load:mkdirpcache Completed in 0ms
+npm timing npm:load:mkdirplogs Completed in 0ms
+npm verb title npm install
+npm verb argv "install" "--legacy-peer-deps" "--loglevel" "verbose"
+npm timing npm:load:setTitle Completed in 2ms
+npm timing config:load:flatten Completed in 1ms
+npm timing npm:load:display Completed in 3ms
+npm verb logfile logs-max:10 dir:/Users/chathurangajayasinghe/.npm/_logs
+npm verb logfile /Users/chathurangajayasinghe/.npm/_logs/2022-09-03T19_53_33_468Z-debug-0.log
+npm timing npm:load:logFile Completed in 2ms
+npm timing npm:load:timers Completed in 0ms
+npm timing npm:load:configScope Completed in 0ms
+npm timing npm:load Completed in 13ms
+npm timing arborist:ctor Completed in 1ms
+npm timing arborist:ctor Completed in 0ms
+npm timing idealTree:init Completed in 5ms
+npm timing idealTree:userRequests Completed in 0ms
+npm timing idealTree:#root Completed in 0ms
+npm timing idealTree:buildDeps Completed in 1ms
+npm timing idealTree:fixDepFlags Completed in 0ms
+npm timing idealTree Completed in 6ms
+npm timing reify:loadTrees Completed in 7ms
+npm timing reify:diffTrees Completed in 0ms
+npm timing reify:retireShallow Completed in 0ms
+npm timing reify:createSparse Completed in 0ms
+npm timing reify:loadBundles Completed in 0ms
+npm timing reify:audit Completed in 0ms
+npm timing reify:unpack Completed in 0ms
+npm timing reify:unretire Completed in 0ms
+npm timing build:queue Completed in 0ms
+npm timing build:deps Completed in 0ms
+npm timing build Completed in 0ms
+npm timing reify:build Completed in 0ms
+npm timing reify:trash Completed in 0ms
+npm timing reify:save Completed in 1ms
+npm timing reify Completed in 15ms
+
+up to date, audited 1 package in 105ms
+
+found 0 vulnerabilities
+npm timing command:install Completed in 18ms
+npm verb exit 0
+npm timing npm Completed in 106ms
+npm info ok 

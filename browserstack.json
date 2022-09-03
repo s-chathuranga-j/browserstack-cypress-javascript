@@ -1,0 +1,30 @@
+{
+    "auth": {
+      "username": "schathurangajaya_GF6gbM",
+      "access_key": "GjKrYqR5o1qn23ShH1wK"
+    },
+    "browsers": [{
+        "browser": "chrome",
+        "os": "Windows 10",
+        "versions": ["latest", "latest - 1"]
+      },
+      {
+        "browser": "firefox",
+        "os": "OS X Mojave",
+        "versions": ["latest", "latest - 1"]
+      },
+      {
+        "browser": "edge",
+        "os": "OS X Catalina",
+        "versions": ["latest"]
+      }
+    ],
+    "run_settings": {
+      "cypress_config_file": "./cypress.config.js",
+      "cypress_version": "10.latest",
+      "specs": ["cypress/e2e/1-getting-started/todo.cy.js", "cypress/e2e/2-advanced-examples/actions.cy.js"],
+      "project_name": "Cypress BrowserStack Integration",
+      "build_name": "Build no. 1",
+      "parallels": "5"
+    }
+  }
