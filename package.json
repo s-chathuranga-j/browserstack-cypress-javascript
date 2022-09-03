@@ -1,0 +1,22 @@
+{
+  "name": "browserstack-cypress-js",
+  "version": "1.0.0",
+  "description": "This is a NodeJS project with the dependencies:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-chathuranga-j/browserstack-cypress-javascript.git"
+  },
+  "author": "Chathuranga Jayasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-chathuranga-j/browserstack-cypress-javascript/issues"
+  },
+  "homepage": "https://github.com/s-chathuranga-j/browserstack-cypress-javascript#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
