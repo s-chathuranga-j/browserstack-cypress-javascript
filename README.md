@@ -4,11 +4,13 @@ This is a NodeJS project with the dependencies:
 
 - Cypress
 
-To run the code, open the project with IntelliJ (or any other preffered IDE) & locate the test files under the folder "cypress/e2e". Open the cypress GUI using the command:
-- npx cypress open
+To run the code, open the project with IntelliJ (or any other preffered IDE) & locate the test files under the folder "cypress/e2e". Replace the API key value in the code with your own BrowserStack API key first!
 
-The you can run tests as you wish. The test execution can be view via your BrowserStack account!
+To run these tests on BrowserStack you need to execute the command:
+- browserstack-cypress run --sync
 
-A descriptive explanation about the code base can be found on Medium.com: https://medium.com/geekculture/browserstack-integration-with-selenium-java-3514abbd72d3
+The test execution can be viewed via your BrowserStack account!
+
+A descriptive explanation about the code base can be found on Medium.com: https://schathurangaj.medium.com/cross-browser-testing-with-cypress-browserstack-efc2361826ca
 
 Feel free to Clone, Try-out & Optimize the code base as your wish!
